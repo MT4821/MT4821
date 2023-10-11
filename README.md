@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🧍 I am MT4821
+🧍 I am MT4821 or just Max
 
 📖 Currently im learning ICS3U course in Nore Henderson Secondary 🏫
 
@@ -9,4 +9,4 @@
 2. 💀 LUA (editing E2 modding tool on source engine [games](https://steamcommunity.com/workshop/filedetails/?id=160250458))
 3. 🧊 Javascript (Editing and configuring mods for Minecraft server(mainly [S&R:parasites](https://www.curseforge.com/minecraft/modpacks/s-r-p-plus)))
 
-🔧 right now working on Open ai with Sachin in ICS3u1 class
+🔧 right now working on OpenAI with Sachin in ICS3u1 class
