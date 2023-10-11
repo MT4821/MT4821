@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🧍 I am MT4821
-📖 Currently im learning ICS3U course
+📖 Currently im learning ICS3U course in Nore Henderson Secondary 🏫
 
 🚩 I had past experiences with writing (but mainly editing) on:
 1. 🐍 Python (ICS3U1 course)
