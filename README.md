@@ -9,5 +9,5 @@
 2. 💀 LUA (editing E2 modding tool on [source](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor) engine [games](https://steamcommunity.com/workshop/filedetails/?id=160250458))
 3. 🧊 Javascript (Editing and configuring mods for Minecraft server(mainly [S&R:parasites](https://www.curseforge.com/minecraft/modpacks/s-r-p-plus)))
 
-🔧 right now working on OpenAI with Sachin in ICS3U1 class
+
 
