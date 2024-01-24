@@ -10,4 +10,7 @@
 3. 🧊 Javascript (Editing and configuring mods for Minecraft server(mainly [S&R:parasites](https://www.curseforge.com/minecraft/modpacks/s-r-p-plus)))
 
 
-
+## Projects
+1. [Open ai voice assistant]()
+2. [HTML PINCODE]()
+3. [Resume html]()
