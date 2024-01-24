@@ -11,6 +11,6 @@
 
 
 ## Projects
-1. [Open ai voice assistant]()
-2. [HTML PINCODE]()
-3. [Resume html]()
+1. [Open ai voice assistant](https://github.com/MT4821/openai-html)
+2. [HTML PINCODE](https://github.com/MT4821/hmtl-pincode)
+3. [Resume html](https://github.com/MT4821/resume)
