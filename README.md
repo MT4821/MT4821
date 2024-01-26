@@ -2,7 +2,7 @@
 
 🧍 I am MT4821 or just Max
 
-I enjo9y programming to some degree with my favourite language being C++ 
+I enjoy programming to some degree with my favourite language being C++ 
 
 📖 Currently im learning ICS3U course in Nore Henderson Secondary 🏫
 
