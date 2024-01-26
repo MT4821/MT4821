@@ -2,6 +2,8 @@
 
 🧍 I am MT4821 or just Max
 
+I enjo9y programming to some degree with my favourite language being C++ 
+
 📖 Currently im learning ICS3U course in Nore Henderson Secondary 🏫
 
 ## 🚩 I had past experiences with writing (but mainly editing) on:
@@ -11,6 +13,6 @@
 
 
 ## Projects
-1. [Open ai voice assistant](https://github.com/MT4821/openai-html)
-2. [HTML PINCODE](https://github.com/MT4821/hmtl-pincode)
-3. [Resume html](https://github.com/MT4821/resume)
+1. [Open ai voice assistant](https://github.com/MT4821/openai-html) - A project on openai i done with Sachin on html
+2. [HTML PINCODE](https://github.com/MT4821/hmtl-pincode) - a short pincode program on html
+3. [Resume html](https://github.com/MT4821/resume) - a resume page on html
