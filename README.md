@@ -4,7 +4,7 @@
 
 I enjoy programming to some degree with my favourite language being C++ 
 
-📖 Currently im learning ICS3U course in Nore Henderson Secondary 🏫
+📖 Currently im learning ICS4U course in Nore Henderson Secondary 🏫
 
 ## 🚩 I had past experiences with writing (but mainly editing) on:
 1. 🐍 Python (ICS3U1 course)
