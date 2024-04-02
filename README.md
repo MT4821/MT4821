@@ -16,4 +16,4 @@ I enjoy programming to some degree with my favourite language being C++
 ## Projects
 1. [Open ai voice assistant](https://github.com/MT4821/openai-html) - A project on openai i done with Sachin on html
 2. [HTML PINCODE](https://github.com/MT4821/hmtl-pincode) - a short pincode program on html
-3. [Resume html](https://github.com/MT4821/resume) - a resume page on html
+3. [Resume html](https://github.com/MT4821/resume) - a resume page with html
