@@ -1,6 +1,6 @@
 # Hi there 👋
 
-🧍 I am MT4821 or just Max
+I am MT4821 or just Max
 
 I enjoy programming to some degree with my favourite language being C++ 
 
