@@ -4,6 +4,7 @@
 
 # 🚩 About Me
 Starting software and game developer
+
 Enjoy writing simple tasks but really struggles with doing effective work
 
 
