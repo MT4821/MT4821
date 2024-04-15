@@ -1,12 +1,11 @@
-# Hi there 👋
+##  Hi there 👋
 ### I am MT4821 or just Max
 ### I enjoy programming to some degree and studying in ICS4U coiurse in Nora Henderson Secondary
 
-# 🚩 About Me
+## 🚩 About Me
 Starting software and game developer
 
 Enjoy writing simple tasks but really struggles with doing effective work
-
 
 ## 🚩 I had past experiences with writing (but mainly editing) on:
 1. 🐍 Python (ICS3U1 course)
