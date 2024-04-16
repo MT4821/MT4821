@@ -7,7 +7,9 @@ Starting software and game developer
 
 Enjoy writing simple tasks but really struggles with doing effective work
 
-## 🚩 I had past experiences with writing (but mainly editing) on:
+Right now working on whoever knows what
+
+## I had past experiences with writing (but mainly editing) on:
 1. 🐍 Python (ICS3U1 course)
 2. 💀 LUA (editing E2 modding tool on [source](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor) engine [games](https://steamcommunity.com/workshop/filedetails/?id=160250458))
 3. 🧊 Javascript (Editing HTML sites and introducing scripts there)
